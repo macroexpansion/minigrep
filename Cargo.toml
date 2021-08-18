@@ -14,4 +14,4 @@ license = "MIT"
 opt-level = 0
 
 [profile.release]
-oppt-level = 3
+opt-level = 3
