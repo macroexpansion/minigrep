@@ -1,6 +1,6 @@
 [package]
 name = "ndqc_minigrep"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["ndqc"]
 edition = "2018"
 description = "Small project crate to learn Rust"
