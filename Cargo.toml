@@ -1,0 +1,17 @@
+[package]
+name = "ndqc_minigrep"
+version = "0.1.0"
+authors = ["ndqc"]
+edition = "2018"
+description = "Small project crate to learn Rust"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+oppt-level = 3
